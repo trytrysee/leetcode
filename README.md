@@ -1,2 +1,6 @@
-# leetcode
-leetcode solutions and discuss the result
+# 写在前面
+尽可能提供每个leetcode算法题的多个解决方案。
+如果有多个解决方案对比各个解决方案
+
+# 第一版
+Java单语言版本
